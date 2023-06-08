@@ -1,0 +1,18 @@
+*{
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+	 font-family: 'IM Fell Double Pica', serif;
+font-family: 'Kurale', serif;
+
+}
+
+.container{
+	width:90%;
+	margin:0 auto;
+}
+
+.col-lg-6 img{
+	height:50vh;
+	width:100%;
+}
